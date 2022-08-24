@@ -175,7 +175,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  # portfolio:
+  project:
     output: true
     permalink: /:collection/:path/
   talks:

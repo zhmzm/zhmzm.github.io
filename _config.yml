@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "About me"
+title: "ZHM"
 title_separator: "-"
 name: &name "Haomin Zhuang"
 description: &description "Personal Website"

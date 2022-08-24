@@ -1,4 +1,4 @@
----
+<!-- ---
 
 title: "Decentralized Oracle with Mechanism for Reputation and Incentive"
 collection: publications
@@ -18,4 +18,4 @@ citation:
 
 [Download paper here](http://zhmzm.github.io/files/Decentralized_Oracle_with_Mechanism_for_Reputation_and_Incentive.pdf)
 
-# Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+# Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

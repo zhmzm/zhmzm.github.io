@@ -8,3 +8,4 @@ Abstract: Backdoor attacks inject adversarial triggers to training data samples 
 chance of being detected by state-of-the-art (SOTA) defenses. In this work, we first propose to use forward and backward layer substitution to identify backdoor-critical layers and analyze their properties. Then, we craft new backdoor attack methods with the awareness of BC layers. Extensive experiments show that our BC layer-aware backdoor attacks can successfully backdoor FL under SOTA defense methods with only 10% malicious clients and maintain the main task accuracy at a high level.
 
 This paper is under review in a Conference.
+<br/><img src='/images/LPA.png'>

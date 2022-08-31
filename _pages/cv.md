@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-- CV can be downloaded [here (not avaliable now)](https://zhmzm.github.io/cv/cv.pdf).
+- CV can be downloaded [here](https://zhmzm.github.io/cv/cv.pdf).

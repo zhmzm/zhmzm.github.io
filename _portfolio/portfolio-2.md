@@ -1,6 +1,6 @@
 ---
 title: "[CVPR Workshop'23] A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion"
-excerpt: "**Haomin Zhuang**, Yihua Zhang, and Sijia Liu <br/><img src='/images/clip_score.jpa'>"
+excerpt: "**Haomin Zhuang**, Yihua Zhang, and Sijia Liu <br/><img src='/images/clip_score.png'>"
 collection: portfolio
 ---
 

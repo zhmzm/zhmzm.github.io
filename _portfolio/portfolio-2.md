@@ -1,10 +1,10 @@
 ---
-title: "Paper: Decentralized Oracle with Mechanism for Reputation and Incentive"
-excerpt: "This paper proposes a novel scheme to built a robust decentralized oracle system in Blockchain <br/><img src='/images/blockchain.png'>"
+title: "[CVPR Workshop'23] A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion"
+excerpt: "**Haomin Zhuang**, Yihua Zhang, and Sijia Liu <br/><img src='/images/clip_score.jpa'>"
 collection: portfolio
 ---
 
-Abstract: Blockchain was originally designed as a peer-to-peer network to handle cryptocurrency transactions. And with the advent of smart contracts, more and more applications are using Blockchain as an infrastructure. The smart contract provides a mechanism to automatically execute code according to programmed conditions without requiring other reliable third-party intervention. However, smart contracts have a nonnegligible limitation in that they can only operate on data that is on the Blockchain. This is why we need trusted entities called oracle which is in charge of writing external data into Blockchain. To avoid security issues such as malicious oracles writing incorrect data on Blockchain. This paper introduced a decentralized oracle based on reputation and incentive mechanism. To evaluate the feasibility and reliability of the proposed scheme, a simulation-based experiment was conducted. The results showed that our solution can well defend against attacks and penalize those malicious oracles.
+Abstract: Despite the record-breaking performance in Text-to-Image (T2I) generation by Stable Diffusion, less research attention is paid to its adversarial robustness. In this work, we study the problem of adversarial attack generation for Stable Diffusion and ask if an adversarial text prompt can be obtained even in the absence of end-to-end model queries. We call the resulting problem 'query-free attack generation'. To resolve this problem, we show that the vulnerability of T2I models is rooted in the lack of robustness of text encoders, e.g., the CLIP text encoder used for attacking Stable Diffusion. Based on such insight, we propose both untargeted and targeted query-free attacks, where the former is built on the most influential dimensions in the text embedding space, which we call steerable key dimensions. By leveraging the proposed attacks, we empirically show that only a five-character perturbation to the text prompt is able to cause the significant content shift of synthesized images using Stable Diffusion. Moreover, we show that the proposed target attack can precisely steer the diffusion model to scrub the targeted image content without causing much change in untargeted image content.
 
-This paper is accpected by [ICEEIE2022](http://www.iceeieconference.com/2022/menu/home).
-<br/><img src='/images/blockchain.png'>
+This paper is accpected by [CVPR Workshop'23 3rdAdvML](https://robustart.github.io/).
+<br/><img src='/images/CLIP_text.png'>

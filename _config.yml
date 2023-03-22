@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Haomin Zhuang"
   avatar: "personal_photo.jpg"
-  bio: "A humorous, conscientious and outgoing person. Graduate at SCUT in 2023."
-  location: "Guangzhou, Guangdong, China"
+  bio: "Graduate at SCUT in 2023."
+  location: "Guangdong, China"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: #"http://yourfullgooglescholarurl.com"
-  email: "201930400391@mail.scut.edu.cn"
+  email: "semzm@mail.scut.edu.cn"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:

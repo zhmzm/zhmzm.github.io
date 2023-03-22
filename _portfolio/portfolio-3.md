@@ -1,7 +1,10 @@
 ---
-title: "Project: Intelligent Customer Service"
-excerpt: "We develop a software to help sellers answer customers' questions about Xiaopeng Car. A multi-label classifier is trained to handle 80 thousand sentenses crawed in Dongchedi website. <br/><img src='/images/xiaopeng.png'>"
+title: "Decentralized Oracle with Mechanism for Reputation and Incentive"
+excerpt: "This paper proposes a novel scheme to built a robust decentralized oracle system in Blockchain <br/><img src='/images/blockchain.png'>"
 collection: portfolio
 ---
 
-Many sellers are unfaimilar to the products in their company Xiaopeng. However, they are facing detailed questions including comparison with other cars from customers in phonecall. How to build a high-quality answer database and how to match questions and answers are two main difficulties in this software. We finally crawled data from professional car information provider-Dongchedi website and trained a fine-turning multi-label classifer from Chinese-Bert. To our surprise, the model was able to understood sentences and even matched the word "oil consumption" to "power consumption" label, when "oil consumption" did not appear in our training dataset, because all cars in Xiaopeng are powered by electricity.<br/><img src='/images/xiaopeng.png'>
+Abstract: Blockchain was originally designed as a peer-to-peer network to handle cryptocurrency transactions. And with the advent of smart contracts, more and more applications are using Blockchain as an infrastructure. The smart contract provides a mechanism to automatically execute code according to programmed conditions without requiring other reliable third-party intervention. However, smart contracts have a nonnegligible limitation in that they can only operate on data that is on the Blockchain. This is why we need trusted entities called oracle which is in charge of writing external data into Blockchain. To avoid security issues such as malicious oracles writing incorrect data on Blockchain. This paper introduced a decentralized oracle based on reputation and incentive mechanism. To evaluate the feasibility and reliability of the proposed scheme, a simulation-based experiment was conducted. The results showed that our solution can well defend against attacks and penalize those malicious oracles.
+
+This paper is accpected by [ICEEIE2022](http://www.iceeieconference.com/2022/menu/home).
+<br/><img src='/images/blockchain.png'>

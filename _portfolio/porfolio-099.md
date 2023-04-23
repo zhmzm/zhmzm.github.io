@@ -1,0 +1,9 @@
+---
+title: "[ArXiv] A Comparison of Image Denoising Methods"
+excerpt: "Zhaoming Kong, Fangxi Deng, **Haomin Zhuang**, Xiaowei Yang, Jun Yu, Lifang He"
+collection: portfolio
+---
+
+Abstract: The advancement of imaging devices and countless images generated everyday pose an increasingly high demand on image denoising, which still remains a challenging task in terms of both effectiveness and efficiency. To improve denoising quality, numerous denoising techniques and approaches have been proposed in the past decades, including different transforms, regularization terms, algebraic representations and especially advanced deep neural network (DNN) architectures. Despite their sophistication, many methods may fail to achieve desirable results for simultaneous noise removal and fine detail preservation. In this paper, to investigate the applicability of existing denoising techniques, we compare a variety of denoising methods on both synthetic and real-world datasets for different applications. We also introduce a new dataset for benchmarking, and the evaluations are performed from four different perspectives including quantitative metrics, visual effects, human ratings and computational cost. Our experiments demonstrate: (i) the effectiveness and efficiency of representative traditional denoisers for various denoising tasks, (ii) a simple matrix-based algorithm may be able to produce similar results compared with its tensor counterparts, and (iii) the notable achievements of DNN models, which exhibit impressive generalization ability and show state-of-the-art performance on various datasets. In spite of the progress in recent years, we discuss shortcomings and possible extensions of existing techniques. Datasets, code and results are made publicly available.
+
+Paper is available in [ArXiv](https://arxiv.org/abs/2304.08990), and code is available in [Github](https://github.com/ZhaomingKong/Denoising-Comparison).

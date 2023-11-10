@@ -1,5 +1,5 @@
 ---
-title: "[Preprinted]: Backdoor Federated Learning by Poisoning Backdoor-Critical Layers"
+title: "[ArXiv] Backdoor Federated Learning by Poisoning Backdoor-Critical Layers"
 
 excerpt: "**Haomin Zhuang**, Mingxian Yu, Hao Wang, Yang Hua, Jian Li, Xu Yuan <br/><img src='/images/lsa.jpg'>"
 collection: portfolio

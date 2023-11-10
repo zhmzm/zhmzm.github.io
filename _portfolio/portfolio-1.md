@@ -1,7 +1,7 @@
 ---
 title: "[Preprinted]: Backdoor Federated Learning by Poisoning Backdoor-Critical Layers"
 
-excerpt: "**Haomin Zhuang**, Mingxian Yu, Hao Wang, Yang Hua, Jian Li, Xu Yuan"
+excerpt: "**Haomin Zhuang**, Mingxian Yu, Hao Wang, Yang Hua, Jian Li, Xu Yuan <br/><img src='/images/lsa.jpg'>"
 collection: portfolio
 ---
 
@@ -9,4 +9,4 @@ Federated learning (FL) has been widely deployed to enable machine learning trai
 
 Paper is available in [ArXiv](https://arxiv.org/abs/2308.04466).
 
-<!-- <br/><img src='/images/AAAI-23-Website-Banner_2560x593.png'> -->
+<br/><img src='/images/lsa.jpg'>

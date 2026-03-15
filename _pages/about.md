@@ -14,7 +14,7 @@ My research focuses on **large language models (LLMs)** — making them safer, m
 
 Previously, I was a research intern at the [OPTML Group](https://www.optml-group.com/) (advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/)) and [IntelliSys Lab](https://intellisys.haow.us/) (advised by [Prof. Hao Wang](https://www.stevens.edu/profile/hwang9)). In summer 2025, I interned at **ByteDance (TikTok)**, working on e-commerce chatbot systems.
 
-**Service:** Reviewer for *ICLR 2025*, *ACL 2025*, and *TDSC*
+**Service:** Reviewer for *ICLR*, *ICML*, *NeurIPS*, *KDD*, *ACL*, *EMNLP*, *NAACL*, *TDSC*, and *TAI*
 
 ---
 

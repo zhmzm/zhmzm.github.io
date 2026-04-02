@@ -1,5 +1,5 @@
 ---
-title: "SenseMath: Evaluating Number Sense in Large Language Models"
+title: "SenseMath: When Number Sense Helps Numerical Reasoning in Large Language Models"
 excerpt: "**Haomin Zhuang**, Xiangqi Wang, Yili Shen, Ying Cheng, Xiangliang Zhang <br/><img src='/images/sensemath_overview.png'>"
 collection: portfolio
 date: 2026-04-02

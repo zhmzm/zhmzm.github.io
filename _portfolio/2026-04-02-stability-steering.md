@@ -1,6 +1,6 @@
 ---
 title: "[Preprint] Reliable Control-Point Selection for Steering Reasoning in Large Language Models"
-excerpt: "**Haomin Zhuang**, Hojun Yoo, Xiaonan Luo, Kehan Guo, Xiangliang Zhang"
+excerpt: "**Haomin Zhuang**, Hojun Yoo, Xiaonan Luo, Kehan Guo, Xiangliang Zhang <br/><img src='/images/stability-steering-concept.png'>"
 collection: portfolio
 date: 2026-04-02
 ---

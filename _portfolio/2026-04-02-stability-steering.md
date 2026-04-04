@@ -9,4 +9,4 @@ Steering vectors can control reasoning behaviors in LLMs without retraining, but
 
 <img src="/images/stability-steering-concept.png" width="100%"/>
 
-Code: [[GitHub](https://github.com/zhmzm/stability-steering)].
+Paper: [[arXiv](https://arxiv.org/abs/2604.02113)] | Code: [[GitHub](https://github.com/zhmzm/stability-steering)].

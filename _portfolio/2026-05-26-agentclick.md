@@ -1,6 +1,6 @@
 ---
 title: "[CAIS'26 Demo] AgentClick: A Human-in-the-Loop Review UI for Autonomous Agents"
-excerpt: "**Haomin Zhuang** et al."
+excerpt: "**Haomin Zhuang**, Hanwen Xing, Xiangliang Zhang"
 collection: portfolio
 date: 2026-05-26
 ---
